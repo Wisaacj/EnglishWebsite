@@ -24,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="498" column="6" selection-start-line="498" selection-start-column="6" selection-end-line="498" selection-end-column="6" />
+            <state relative-caret-position="9146">
+              <caret line="538" column="7" selection-start-line="538" selection-start-column="7" selection-end-line="538" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -41,6 +41,7 @@
       <list>
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -200,12 +201,12 @@
       <workItem from="1475090397326" duration="48000" />
       <workItem from="1475090454620" duration="312000" />
       <workItem from="1475329521128" duration="1424000" />
-      <workItem from="1475433909850" duration="873000" />
+      <workItem from="1475433909850" duration="1354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6627000" />
+    <option name="totallyTimeSpent" value="7108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -333,10 +334,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="1061" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="1087" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="498" column="6" selection-start-line="498" selection-start-column="6" selection-end-line="498" selection-end-column="6" />
+        <state relative-caret-position="9146">
+          <caret line="538" column="7" selection-start-line="538" selection-start-column="7" selection-end-line="538" selection-end-column="7" />
           <folding />
         </state>
       </provider>
