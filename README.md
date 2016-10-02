@@ -1,3 +1,3 @@
 # EnglishWebsite
 English Homework Website
-This is going to be a collaberation between myself and my friend for our english homework and we hope to host it online.
+This is going to be a collaboration between myself and my friend for our English homework and we hope to host it online.
